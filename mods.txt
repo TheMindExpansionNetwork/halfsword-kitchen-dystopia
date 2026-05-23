@@ -1,0 +1,8 @@
+# Ready-to-use mods.txt for Ratatouille: Dystopia Edition
+# Copy this entire file into:
+# I:\SteamLibrary\steamapps\common\Half Sword\HalfswordUE5\Binaries\Win64\UE4SS\Mods\mods.txt
+# (Replace your existing mods.txt with this one)
+
+CheatManager 0
+
+KitchenMayhem 1
